@@ -1,0 +1,1 @@
+The ManageLike shred allows users to like or unlike posts on a social network. It includes real-time updates of like counts and can notify post owners about new likes. The shred follows Hexagonal Architecture with a pure Domain layer, clear Port interfaces, Adapter implementations, and an Infrastruc
